@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Vue.js <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vue_icon_130078.png" width="17" /><br>🎯 Goal: Expand my knowledge as a developer.<br>🎲 Fun fact: I play sports and enjoy travelling.</p>
+<p align="left">📚 I'm currently learning Vue.js <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vue_icon_130078.png" width="17" /><br>🎯 Goal: Expand my knowledge as a developer👨‍💻.<br>🎲 Fun fact: I play sports🏀 and enjoy travelling ✈.</p>
 
 ###
 
